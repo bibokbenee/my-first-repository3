@@ -1,2 +1,9 @@
-# my-first-repository3
+# Your personal details
+### First Name: Benjamin
+### Last Name: Bibók
+
+## Isn't it?
+- Gergő
+- Béla
+- **Ádám**
  
